@@ -53,10 +53,6 @@ To run the project:
 
 3. View the plotted comparison and printed RMSE values.
 
-Author
+### Contributions
 
-Developed by Warren Cheng.
-
-License
-
-This project is licensed under the MIT License.
+Contributions are welcome! Feel free to fork the repository, open an issue, or submit a pull request with improvements.
