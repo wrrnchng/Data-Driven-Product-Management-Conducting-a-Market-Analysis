@@ -15,9 +15,9 @@ This project aims to predict daily power consumption in a given area using machi
 
     - Selects relevant features for training.
 
-2. Splits the data into training and testing sets.
+    - Splits the data into training and testing sets.
 
-    - Model Training and Hyperparameter Tuning:
+2. Model Training and Hyperparameter Tuning:
 
     - Uses GridSearchCV to perform hyperparameter tuning on both models.
 
