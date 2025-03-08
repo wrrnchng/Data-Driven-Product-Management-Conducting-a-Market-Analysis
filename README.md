@@ -1,5 +1,13 @@
 # Data-Driven Product Management Conducting a Market Analysis
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-orange.svg)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.0%2B-yellow.svg)
+![XGBoost](https://img.shields.io/badge/XGBoost-1.5%2B-red.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Forks](https://img.shields.io/github/forks/wrrnchng/Data-Driven-Product-Management-Conducting-a-Market-Analysis?style=social)
+![Stars](https://img.shields.io/github/stars/wrrnchng/Data-Driven-Product-Management-Conducting-a-Market-Analysis?style=social)
+
 ### Disclaimer
 *This project is based on files and datasets provided by DataCamp as part of their real-world projects. The dataset and structure align with educational content from DataCamp to help learners practice machine learning techniques in real-world scenarios.*
 
