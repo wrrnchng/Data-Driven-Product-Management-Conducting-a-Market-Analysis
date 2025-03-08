@@ -1,5 +1,8 @@
 # Data-Driven Product Management Conducting a Market Analysis
 
+### Disclaimer
+*This project is based on files and datasets provided by DataCamp as part of their real-world projects. The dataset and structure align with educational content from DataCamp to help learners practice machine learning techniques in real-world scenarios.*
+
 ### Project Overview
 
 This project aims to predict daily power consumption in a given area using machine learning models. The dataset contains features such as date, year, semester, day of the week, week in the year, day in the year, and month. Two machine learning models, Random Forest Regressor and XGBoost Regressor, are trained to make accurate predictions of power consumption.
