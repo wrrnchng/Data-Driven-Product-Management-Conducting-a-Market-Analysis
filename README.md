@@ -51,8 +51,6 @@ To run the project:
 
         python power_consumption_ml.py
 
-3. View the plotted comparison and printed RMSE values.
-
 ### Contributions
 
 Contributions are welcome! Feel free to fork the repository, open an issue, or submit a pull request with improvements.
